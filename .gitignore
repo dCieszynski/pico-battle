@@ -1,0 +1,8 @@
+# working notes
+BUILD_NOTES.md
+
+# PICO-8 and build byproducts
+*.p8.png
+*.p8.rom
+*.bak
+title_preview.png
